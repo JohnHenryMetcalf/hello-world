@@ -1,2 +1,2 @@
 # hello-world
-Testing git
+Testing git for data science course on Coursera
